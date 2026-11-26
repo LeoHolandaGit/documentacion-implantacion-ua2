@@ -13,3 +13,7 @@ Este repositorio privado tiene como objetivo organizar, documentar y mantener un
 
 ## Aprendizajes adquiridos
 Con estas actividades he aprendido a preparar paquetes de software limpios antes de su distribución, verificar entornos de servidor en XAMPP, proteger rutas y archivos sensibles frente a accesos no autorizados y gestionar documentación técnica de forma ordenada en GitHub.
+
+## Estructura y buenas prácticas aplicadas
+* **Organización:** Todos los documentos entregables en formato PDF se encuentran centralizados dentro de la carpeta `docs/`.
+* **Privacidad y seguridad:** Antes de subir los archivos, se han revisado y eliminado datos personales, credenciales locales y plantillas institucionales, manteniendo el repositorio en modo **privado**.
